@@ -2,6 +2,12 @@ body {
     background-image: url("../../assets/img/bg.jpg");
     background-size: cover;
 }
+
+#engage {
+  background-color: #ff8533;
+  color: white;
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
